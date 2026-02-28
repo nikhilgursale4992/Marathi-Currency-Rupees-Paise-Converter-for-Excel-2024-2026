@@ -1,0 +1,2 @@
+# Marathi-Currency-Rupees-Paise-Converter-for-Excel-2024-2026
+Marathi Currency Converter for Excel 2024/2026. Converts numbers to words (Rupees &amp; Paise) with the ₹ symbol. Fixes the "#NAME?" and "Double Rupee" errors found in older formulas. No VBA/Macros required; uses modern LET/LAMBDA logic. Perfect for professional Marathi invoicing. Best used with Sharada Marathi/ Nirmala UI or Mangal fonts. 🚩
